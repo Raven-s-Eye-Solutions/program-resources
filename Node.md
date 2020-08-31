@@ -1,6 +1,6 @@
 # Resource List for Node JS - Express
 
-<img alt="Node" src="./assets/logo.svg" width="300" height="200">
+<img alt="Node" src="./assets/logo.svg" height="150">
 
 [NodeJS](https://nodejs.org/en/)
 
@@ -19,7 +19,7 @@
 [NPM](https://www.npmjs.com/)
 
 
-<img alt="Node" src="https://expressjs.com/images/express-facebook-share.png" width="300" height="200">
+<img alt="Express" src="./assets/express.png" height="150">
 
 
 [Express](https://expressjs.com/en/starter/installing.html)
