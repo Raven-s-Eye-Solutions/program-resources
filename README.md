@@ -1,5 +1,6 @@
 # Class-Resources
 
+- [Project requirements](project-requirements.md)
 
 A collage of resources for all topics covered in the program!
 

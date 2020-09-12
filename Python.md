@@ -2,4 +2,4 @@
 
 <img alt="Python" src="./assets/python.png" height="150">
 
-[Python](https://www.python.org/)
+- [Python](https://www.python.org/)
