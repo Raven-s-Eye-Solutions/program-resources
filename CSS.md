@@ -4,6 +4,7 @@
   <img alt='CSS' src="./assets/css.png" width="150" />
   <img alt='SCSS' src="./assets/scss.png" width="170" />
 </p>
+<br>
 
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
