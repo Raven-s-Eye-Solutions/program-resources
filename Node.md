@@ -1,6 +1,8 @@
 # Resource List for Node JS - Express
 
 <img alt="Node" src="./assets/logo.svg" height="150">
+<br>
+<br>
 
 - [NodeJS](https://nodejs.org/en/)
 
@@ -18,6 +20,11 @@
 
 - [NPM](https://www.npmjs.com/)
 
+<br>
 <img alt="Express" src="./assets/express.png" height="150">
+<br>
+<br>
 
 - [Express](https://expressjs.com/en/starter/installing.html)
+
+- [Heroku for Deployment](https://www.heroku.com/)

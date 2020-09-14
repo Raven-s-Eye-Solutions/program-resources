@@ -9,3 +9,7 @@
 
 - [10 modern CSS layouts](https://www.youtube.com/watch?v=qm0IfG1GyZU)
 
+- [Rem Units](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
+
+- [Cheatsheet](https://htmlcheatsheet.com/css/)
+
