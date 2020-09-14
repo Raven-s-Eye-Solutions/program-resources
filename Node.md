@@ -1,8 +1,6 @@
 # Resource List for Node JS - Express
 
 <img alt="Node" src="./assets/logo.svg" height="150">
-<br>
-<br>
 
 - [NodeJS](https://nodejs.org/en/)
 
