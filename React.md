@@ -1,8 +1,6 @@
 # Resource List for React JS
 
 <img alt="Node" src="./assets/react.png" height="150">
-<br>
-<br>
 
 - [Getting Started](https://reactjs.org/docs/getting-started.html)
 
