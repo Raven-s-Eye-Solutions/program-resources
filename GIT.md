@@ -11,3 +11,4 @@
 
 
 - [How to write good commit messages](https://chris.beams.io/posts/git-commit/)
+- [Automating GitHub issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
