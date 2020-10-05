@@ -14,3 +14,4 @@
 - [Semantic commit message style](https://www.conventionalcommits.org/en/v1.0.0-beta.2/)
 - [Automating GitHub issues](https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)
 - [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Understanding remotes: git pull](https://github.com/git-guides/git-pull)
